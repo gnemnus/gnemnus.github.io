@@ -1,16 +1,17 @@
 # Site settings
-title: Arctic Fox
-email: 
-description: > # this means to ignore newlines until "baseurl:"
-  Jekyll Theme Demo
-baseurl: "/arctic-fox-theme" # the subpath of your site, e.g. /blog/
-url: "http://diezcami.github.io" # the base hostname & protocol for your site
-twitter_username: username
-github_username: username
+title: Butane Jekyll Theme
+description: >
+    This is an example of the Butane Jekyll Theme created by Alex Carpenter
+author: Alex Carpenter
+email: youemail@gmail.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://alexcarpenter.github.io" # the base hostname & protocol for your site
+twitter_username: hybrid_alex
+github_username:  alexcarpenter
 
 # Build settings
-markdown: redcarpet
-markdown_ext:  markdown,mkdown,mkdn,mkd,md
-
-redcarpet:
-  extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "fenced_code_blocks"]
+include: [_pages]
+markdown: kramdown
+permalink: /:year/:month/:title
+sass:
+    style: compressed
