@@ -3,4 +3,5 @@ layout: content
 title: About
 permalink: /about/
 ---
-This is your about page where you write about yourself in third person and share some links for people to follow you. Take advantage of it.
+    *____* Essays and Ideas 
+    //a collection of thoughts on memory, information retrieval and knowledge management and beyond. 
