@@ -6,8 +6,8 @@ author: gnemnus
 email: gnemuns@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gnemnus.github.io/" # the base hostname & protocol for your site
-twitter_username: xxx
-github_username:  xxx
+twitter_username: 
+github_username:  
 
 # Build settings
 include: [_pages]
