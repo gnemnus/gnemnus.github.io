@@ -1,14 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Butane Jekyll Theme</title>
-    <description>This is an example of the Butane Jekyll Theme created by Alex Carpenter
+    <title>Gnemnus</title>
+    <description>:cherries: Essays and ideas. 
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 06 Sep 2018 17:35:05 -0400</pubDate>
-    <lastBuildDate>Thu, 06 Sep 2018 17:35:05 -0400</lastBuildDate>
+    <pubDate>Thu, 06 Sep 2018 19:49:50 -0400</pubDate>
+    <lastBuildDate>Thu, 06 Sep 2018 19:49:50 -0400</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
+    
+      <item>
+        <title>This is a test post!</title>
+        <description>&lt;p&gt;This is a test post of using jeykll theme.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 06 Sep 2018 14:07:56 -0400</pubDate>
+        <link>http://localhost:4000/2018/09/this-is-a-test-post</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/09/this-is-a-test-post</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>

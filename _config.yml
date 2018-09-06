@@ -1,7 +1,7 @@
 # Site settings
 title: Gnemnus 
 description: >
-    A collections of essays and ideas. 
+    :cherries: Essays and ideas. 
 author: gnemnus
 email: gnemuns@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
